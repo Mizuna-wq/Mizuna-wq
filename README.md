@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study on SMKN 2 Surabaya<br>👯 I’m currently Internship on PT.Otak Kanan Surabaya<br>🤝 I’m looking for help with some experience developer<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about<br>
+🔭 I’m currently Study at SMKN 2 Surabaya<br>👯 I’m currently Internship at PT.Otak Kanan Surabaya<br>🤝 I’m looking for help with some experience developer<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
